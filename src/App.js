@@ -12,7 +12,7 @@ import './styles/App.css';
 function App() {
   return (
     <AuthProvider>
-      <Router basename="/say-marketplace-frontend">
+      <Router>
         <div className="App">
           <Header />
           <main className="main-content">

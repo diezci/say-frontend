@@ -1,7 +1,7 @@
 {
   "name": "say-marketplace-frontend",
   "version": "1.0.0",
-  "homepage": "https://say-frontend.onrender.com",
+  "homepage": "https://say-frontend.onrender.com", 
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
